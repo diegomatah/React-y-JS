@@ -14,6 +14,7 @@ const App = () => {
     <div>
       <h1>{course}</h1>
       <p>
+        Hello world
         {part1} {exercises1}
       </p>
       <p>
