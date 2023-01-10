@@ -2,6 +2,7 @@ import React from 'react'
 import ReactDOM from 'react-dom'
 import './Componentes/Header'
 import Header from './Componentes/Header'
+import Content from './Componentes/Content'
 
 const App = () => {
   const course = 'Half Stack application development'
@@ -20,6 +21,7 @@ const App = () => {
         {part1} {exercises1}
       </p>
       <p>
+        <Content/>
         {part2} {exercises2}
       </p>
       <p>
