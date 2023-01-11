@@ -17,7 +17,7 @@ const App = () => {
     <div>
       <Header/>
       <p>
-        Hello world
+        Hello world again
         {part1} {exercises1}
       </p>
       <p>
